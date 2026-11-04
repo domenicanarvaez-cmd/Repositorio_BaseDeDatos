@@ -1,6 +1,6 @@
 # Repositorio de Base de Datos
 
-## Información General
+## Datos
 
 | Campo | Detalle |
 |---|---|
@@ -35,11 +35,3 @@
 | Ejercicio 7: Discos Musicales | [Ver diagrama](Unidad_1/1_Entidad_Relacion/README.md#ejercicio-7) | [Ver diagrama](Unidad_1/2_Relacional/README.md#ejercicio-7) | [Ver código](Unidad_1/3_SQL/README.md#ejercicio-7) |
 | Ejercicio 8: Camiones | [Ver diagrama](Unidad_1/1_Entidad_Relacion/README.md#ejercicio-8) | [Ver diagrama](Unidad_1/2_Relacional/README.md#ejercicio-8) | [Ver código](Unidad_1/3_SQL/README.md#ejercicio-8) |
 | Ejercicio 9: Veterinaria | [Ver diagrama](Unidad_1/1_Entidad_Relacion/README.md#ejercicio-9) | [Ver diagrama](Unidad_1/2_Relacional/README.md#ejercicio-9) | [Ver código](Unidad_1/3_SQL/README.md#ejercicio-9) |
-
----
-
-## Cómo ejecutar un script
-
-```bash
-winpty mysql -u root -p < Unidad_1/3_SQL/01_biblioteca.sql
-```
